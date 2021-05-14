@@ -2,7 +2,7 @@
 
 ## start
 - install the template
-``` Shell Scripting
+``` shell 
 git clone https://github.com/MrKira128/personal-website-template-dark.git
 cd personal-website-template-dark
 npm install
