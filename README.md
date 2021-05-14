@@ -5,7 +5,7 @@
 
 #### how to host in github.io
 - Create new repository
-- your repository must be named <user>.github.io
+- your repository must be named `<user>.github.io`
 - add `public/main` to `/` in your repository
 - Change 
   	```js
