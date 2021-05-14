@@ -7,4 +7,11 @@
 - Create new repository
 - your repository must be named <user>.github.io
 - add `public/main` to `/` in your repository
-- Change `var res = await(await fetch(\`../api/cv.json\`)).json();` to `var res = await(await fetch(\`api/cv.json\`)).json();`
+- Change 
+  	```js
+	var res = await(await fetch(`../api/cv.json`)).json();
+	```
+	to 
+	```js
+	var res = await(await fetch(`api/cv.json`)).json();
+	```
