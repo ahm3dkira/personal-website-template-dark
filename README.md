@@ -1,12 +1,14 @@
 # personal-website-template-dark
 
-## start
-- install the template
-``` shell 
+## Installation
+``` bash 
 git clone https://github.com/MrKira128/personal-website-template-dark.git
 cd personal-website-template-dark
 npm install
 ```
+- Update `public/api/cv.json`
+
+## Usage
 - Update `public/api/cv.json`
 - start `npm run start`
 
