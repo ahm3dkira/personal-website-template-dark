@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /cv
+Allow: /main
+
+Disallow: /images
+Disallow: /include
+Disallow: /css
+Disallow: /php
+Disallow: /js
+Disallow: /fonts
+Disallow: /Error
+Disallow: /api
+Disallow: /.well-known
+Disallow: /test
+
+
+

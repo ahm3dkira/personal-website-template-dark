@@ -1,0 +1,526 @@
+{
+    "me": {
+        "name": "Ahmed Kira",
+        "email": "AhmedKira00@gmail.com",
+        "phone": "xxxxxxxx",
+        "dob": "August 06, 2001",
+        "address": "Giza, Egypt"
+    },
+    "links": {
+        "twitter": "https://twitter.com/MrKira128",
+        "youtube": "https://www.youtube.com/c/MrKira128",
+        "twitch": "https://www.twitch.tv/MrKira128",
+        "github": "https://github.com/MrKira128",
+        "web": "https://AhmedKira.com"
+    },
+    "summary": "Creative and people-oriented Computer Scientist with extensive project management experience. Advanced knowledge of the creation of graphic design software and programming languages relevant to the web.",
+    "about_me": "Creative and people-oriented Computer Scientist with extensive project management experience. Advanced knowledge of the creation of graphic design software and programming languages relevant to the web.",
+    "cv_pdf": " ",
+    "main": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "all": [
+            {
+                "id": 0,
+                "name": "Bachelor's Degree of CS",
+                "name2": "MUST University",
+                "date": "2019-on going",
+                "info": "flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            },
+            {
+                "id": 1,
+                "name": "CEO & Founder",
+                "name2": "KIRA Inc.",
+                "date": "2016-on going",
+                "info": "flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            },
+            {
+                "id": 0,
+                "name": "IT technician",
+                "name2": "KiraTex Inc.",
+                "date": "2019-on going",
+                "info": "flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            },
+            {
+                "id": 0,
+                "name": "¯\\_(ツ)_/¯",
+                "name2": "MUST University",
+                "date": "2019-on going",
+                "info": "flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            },
+            {
+                "id": 0,
+                "name": "¯\\_(ツ)_/¯",
+                "name2": "MUST University",
+                "date": "2019-on going",
+                "info": "flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            }
+        ]
+    },
+    "certificates": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "folder": "cv/certificates/",
+        "all": [
+            {
+                "id": 0,
+                "name": "The Hour Of Code",
+                "MyName": "Ahmed Kira",
+                "from": "code.org",
+                "url": "",
+                "date": "",
+                "ex-date": "",
+                "score": 0,
+                "info": "",
+                "major": "CS",
+                "sub-major": "",
+                "files": {
+                    "dir": "TheHourOfCode/",
+                    "img": "img.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 1,
+                "name": "google certified in digital marketing",
+                "MyName": "Ahmed Kira",
+                "from": "google.com",
+                "url": "",
+                "date": "",
+                "ex-date": "",
+                "score": 0,
+                "info": "google certified in digital marketing",
+                "major": "",
+                "sub-major": "",
+                "files": {
+                    "dir": "TheHourOfCode/",
+                    "img": "img.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 1,
+                "name": "marketing in ACC",
+                "MyName": "Ahmed Kira",
+                "from": "American Center in Cairo",
+                "url": "",
+                "date": "2020",
+                "ex-date": "",
+                "score": 0,
+                "info": "",
+                "major": "",
+                "sub-major": "",
+                "files": {
+                    "dir": "TheHourOfCode/",
+                    "img": "img.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            }
+        ]
+    },
+    "skills": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "all": [
+            {
+                "id": 0,
+                "name": "Photoshop",
+                "score": 0,
+                "category": "",
+                "info": "",
+                "major": "",
+                "sub-major": ""
+            },
+            {
+                "id": 1,
+                "name": "HTML5",
+                "score": 0.2,
+                "category": "",
+                "info": "",
+                "major": "",
+                "sub-major": ""
+            },
+            {
+                "id": 1,
+                "name": "CSS3",
+                "score": 0.65,
+                "category": "",
+                "info": "",
+                "major": "",
+                "sub-major": ""
+            },
+            {
+                "id": 0,
+                "name": "Photoshop",
+                "score": 1,
+                "category": "",
+                "info": "",
+                "major": "",
+                "sub-major": ""
+            },
+            {
+                "id": 1,
+                "name": "HTML5",
+                "score": 0.88528,
+                "category": "",
+                "info": "",
+                "major": "",
+                "sub-major": ""
+            },
+            {
+                "id": 1,
+                "name": "CSS3",
+                "score": 0.959,
+                "category": "",
+                "info": "",
+                "major": "",
+                "sub-major": ""
+            }
+        ]
+    },
+    "languages": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "native-language": "ar",
+        "all": [
+            {
+                "id": 0,
+                "name": "Eng",
+                "from": "",
+                "score": "0.84",
+                "info": "",
+                "certificates": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "ar",
+                "from": "",
+                "score": "0.95",
+                "info": "",
+                "certificates": []
+            },
+            {
+                "id": 2,
+                "name": "gr",
+                "from": "",
+                "score": "0.15",
+                "info": "",
+                "certificates": []
+            },
+            {
+                "id": 3,
+                "name": "fr",
+                "from": "",
+                "score": "0.05",
+                "info": "",
+                "certificates": []
+            }
+        ]
+    },
+    "projects": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "all": [
+            {
+                "id": 0,
+                "name": "Branding & Illustration Design",
+                "from": "",
+                "url": "#",
+                "source": "#",
+                "date": "",
+                "ex-date": "",
+                "info": "",
+                "major": "WEB DESIGN",
+                "sub-major": "Branding & Illustration Design",
+                "files": {
+                    "dir": "",
+                    "img": "project-3.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Branding & Illustration Design",
+                "from": "",
+                "url": "#",
+                "source": "#",
+                "date": "",
+                "ex-date": "",
+                "info": "",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-4.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Branding & Illustration Design",
+                "from": "",
+                "url": "#",
+                "source": "#",
+                "date": "",
+                "ex-date": "",
+                "info": "",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-1.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 3,
+                "name": "Branding & Illustration Design",
+                "from": "",
+                "url": "#",
+                "source": "#",
+                "date": "",
+                "ex-date": "",
+                "info": "",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-3.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 4,
+                "name": "Branding & Illustration Design",
+                "from": "",
+                "url": "#",
+                "source": "#",
+                "date": "",
+                "ex-date": "",
+                "info": "",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-5.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            }
+        ]
+    },
+    "experience": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "all": [
+            {
+                "id": 0,
+                "name": "participate in many CTF's",
+                "location": "online",
+                "from": "online",
+                "url": "#",
+                "source": "#",
+                "date": "",
+                "ex-date": "",
+                "info": "get 40+ ",
+                "major": "WEB DESIGN",
+                "sub-major": "Branding & Illustration Design",
+                "files": {
+                    "dir": "",
+                    "img": "project-3.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 0,
+                "name": "GGJ",
+                "from": "",
+                "location": "kira",
+                "url": "#",
+                "source": "#",
+                "date": "2020",
+                "to-date": "",
+                "info": "llusllusllusllusllus",
+                "major": "game developer",
+                "sub-major": "",
+                "files": {
+                    "dir": "",
+                    "img": "project-3.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 1,
+                "name": "work in textile factory",
+                "location": "Egypt",
+                "from": "",
+                "url": "#",
+                "source": "#",
+                "date": "2015-2018",
+                "ex-date": "",
+                "info": "",
+                "major": "textile",
+                "files": {
+                    "dir": "",
+                    "img": "project-4.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            }
+        ]
+    },
+    "activities": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "all": [
+            {
+                "id": 1,
+                "name": "elqods",
+                "from": "",
+                "location": "kira",
+                "url": "#",
+                "source": "#",
+                "date": "2014",
+                "ex-date": "",
+                "info": "mothersday+",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-4.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 2,
+                "name": "elqods",
+                "from": "",
+                "location": "kira",
+                "url": "#",
+                "source": "#",
+                "date": "2014",
+                "ex-date": "",
+                "info": "radio",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-1.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            },
+            {
+                "id": 3,
+                "name": "elspa3y",
+                "from": "",
+                "location": "kira",
+                "url": "#",
+                "source": "#",
+                "date": "2017",
+                "ex-date": "",
+                "info": "radio",
+                "major": "WEB DESIGN",
+                "files": {
+                    "dir": "",
+                    "img": "project-3.jpg",
+                    "pdf": "certificate.pdf"
+                }
+            }
+        ]
+    },
+    "programming-languages": {
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+        "all": [
+            {
+                "id": 0,
+                "name": "python",
+                "score": "0.75",
+                "level": "familiar",
+                "info": "",
+                "major": "",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "C++",
+                "score": "0.80",
+                "level": "proficient",
+                "info": "",
+                "major": "",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "HTML",
+                "score": "0.70",
+                "level": "familiar",
+                "info": "",
+                "major": "web",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "C",
+                "score": "0.70",
+                "level": "familiar",
+                "date": "",
+                "info": "",
+                "major": "",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "php",
+                "score": "0.80",
+                "level": "familiar",
+                "info": "",
+                "major": "web",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "VB",
+                "score": "0.80",
+                "level": "familiar",
+                "info": "",
+                "major": "",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "C#",
+                "score": "0.80",
+                "level": "familiar",
+                "info": "",
+                "major": "web",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "SQL",
+                "score": "0.80",
+                "level": "familiar",
+                "info": "",
+                "major": "web",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "javascript",
+                "score": "0.40",
+                "level": "familiar",
+                "info": "",
+                "major": "web",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "java",
+                "score": "0.30",
+                "level": "familiar",
+                "info": "",
+                "major": "",
+                "certificates": []
+            },
+            {
+                "id": 0,
+                "name": "batch",
+                "score": "0.40",
+                "level": "familiar",
+                "info": "",
+                "major": "",
+                "certificates": []
+            }
+        ]
+    },
+    "education": {}
+}
