@@ -542,7 +542,7 @@
   <script>
 
 	(async ()=>{ //add data
-		var res = await(await fetch(`../api/cv.json`)).json();
+		var res = await(await fetch(`/api/cv.json`)).json();
 		// console.log(res);
 		
 		$('title').text(res.me.name);
